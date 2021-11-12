@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+first commit  主分支
+=======
 first commit  test1分支
 
 业务1代码 开发完成
+>>>>>>> remotes/origin/test1
